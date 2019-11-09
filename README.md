@@ -5,3 +5,4 @@
 
 5
 6
+samples expected from sequencing core 2013-01-14
